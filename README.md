@@ -44,7 +44,7 @@ ecosystem readiness Gist for scope and gaps.
 
 ## Layout
 - Studio (future): `src/` — canvas, layers, brush engines, timeline.
-- Tests (future): add a `tests/drawling/` partition in the shared `../../vexgraph-ecosystem/tests` repo (mirrored
+- Tests (future): add a `tests/drawling/` partition in the shared `../../vex/tests` repo (mirrored
   per unit, the Test Tree Mirror Law); no test file lives inside this repo's
   source directories (the Test Segregation Law).
 
